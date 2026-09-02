@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Earth to Mars communication network</title>
+  <desc id="desc">Three circular nodes labeled Earth, Relay, and Mars are connected by blue directional lines.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f7f9"/>
+  <path d="M230 165 H420" stroke="#004b71" stroke-width="12"/>
+  <path d="M480 165 H670" stroke="#004b71" stroke-width="12"/>
+  <path d="M404 145 L440 165 L404 185 Z" fill="#004b71"/>
+  <path d="M654 145 L690 165 L654 185 Z" fill="#004b71"/>
+  <circle cx="160" cy="165" r="76" fill="#2f9e8f"/>
+  <circle cx="450" cy="165" r="56" fill="#8c8c8c"/>
+  <circle cx="740" cy="165" r="76" fill="#c86843"/>
+  <g fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">
+    <text x="160" y="176">EARTH</text>
+    <text x="450" y="176" font-size="26">RELAY</text>
+    <text x="740" y="176">MARS</text>
+  </g>
+</svg>
+
