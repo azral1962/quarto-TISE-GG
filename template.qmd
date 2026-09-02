@@ -1,20 +1,13 @@
 ---
 title: "Towards Swifter Interstellar Mail Delivery"
 authors:
-  - name: Johanna Swift
-    email: swift@delivery.de
+  - name: Armein Z. R. Langi
+    email: armein@itb.ac.id
     affiliations:
-      - name: Delivery Institute
-        department: Primary Logistics Department
-        city: Berlin
-        country: Germany
-  - name: Egon Stellaris
-    email: stegonaris@space.it
-    affiliations:
-      - name: Space Institute
-        department: Communications Group
-        city: Florence
-        country: Italy
+      - name: TISE Research Team, Information Technology Research Group
+        department: School of Electrical Engineering and Informatics, Bandung Institute of Technology
+        city: Bandung
+        country: Indonesia
 date: 2026-09-02
 date-format: "MMMM D, YYYY"
 doi: "10.7891/120948510"
@@ -27,8 +20,8 @@ abstract: |
   Recent advances in space-based document processing have enabled faster mail
   delivery between planets. We propose A-Mail, an anti-matter based approach
   designed to make interplanetary delivery reliable, observable, and fast.
-venue-primary: OXFORD
-venue-secondary: PHYSICS
+venue-primary: STEI-ITB
+venue-secondary: TISE Research Team
 format:
   graceful-genetics-typst:
     keep-typ: true

@@ -5,8 +5,8 @@
 #let gg-blue = rgb("004b71")
 
 #let make-venue(
-  primary: [OXFORD],
-  secondary: [PHYSICS],
+  primary: [STEI-ITB],
+  secondary: [TISE],
 ) = move(dy: -1.9cm, {
   box(rect(fill: luma(140), inset: 10pt, height: 2.5cm)[
     #set text(font: "TeX Gyre Pagella", fill: white, weight: 700, size: 20pt)
