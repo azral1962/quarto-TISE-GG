@@ -27,8 +27,8 @@ abstract: |
   Recent advances in space-based document processing have enabled faster mail
   delivery between planets. We propose A-Mail, an anti-matter based approach
   designed to make interplanetary delivery reliable, observable, and fast.
-venue-primary: OXFORD
-venue-secondary: PHYSICS
+venue-primary: ITB
+venue-secondary: TISE
 format:
   graceful-genetics-typst:
     keep-typ: true

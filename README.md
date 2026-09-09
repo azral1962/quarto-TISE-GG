@@ -11,12 +11,14 @@ want Quarto to create the example project:
 
 ```bash
 quarto use template /path/to/quarto-graceful-genetics-0.1.0.zip
+quarton use template azral1962/quarto-TISE-GG
 ```
 
 From a published GitHub repository:
 
 ```bash
 quarto use template OWNER/quarto-graceful-genetics
+quarto use template azral1962/quarto-TISE-GG
 ```
 
 Quarto installs the extension and creates a copy of `template.qmd`,
